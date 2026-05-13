@@ -1,0 +1,11 @@
+{
+  "hooks": [
+    {
+      "name": "Safety Output Guard",
+      "trigger": "post-generation",
+      "executable": "python hooks/safety_checker.py",
+      "blocking": true,
+      "description": "拦截任何含有敏感词或格式错误的评论输出"
+    }
+  ]
+}
