@@ -1,0 +1,4133 @@
+{
+  "timestamp": "2026-05-14T14:40:35.952078",
+  "total_tests": 20,
+  "success_count": 20,
+  "success_rate": 1.0,
+  "results": [
+    {
+      "post_id": "post_001",
+      "status": "success",
+      "result": {
+        "post_id": "post_001",
+        "analysis": {
+          "post_id": "post_001",
+          "factual_fields": {
+            "id": "post_001",
+            "title": "为什么现在的年轻人都在卷？",
+            "content": "工作996，年薪30万起。还在抱怨的为什么不去试试？看到有人月薪10万，我就在想为什么自己不行。",
+            "platform": "知乎",
+            "images": [],
+            "url": "https://zhihu.com/question/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "职场竞争与焦虑",
+            "hook_points": [
+              "996工作制",
+              "年薪数字",
+              "卷文化",
+              "代际竞争"
+            ],
+            "sentiment": "competitive_anxiety",
+            "risk_level": 5,
+            "recommended_styles": [
+              "analytical",
+              "questioning"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_001",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_001_candidate_1",
+            "text": "这个观点的逻辑缺陷在于忽视了多方面因素。职场竞争本质上反映的是信息差和选择权的问题，而非单纯的个人努力。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "数据对比图",
+              "description": "柱状图对比不同职位的薪资、工作时间、压力指数",
+              "construction": "左侧显示996工作时间，右侧显示其他行业对比",
+              "why_effective": "用数据视觉化打破单一叙事，增加信服力 (+45%互动)",
+              "examples": [
+                "📊 表格：不同城市行业的996现象对比",
+                "📈 折线图：年龄vs薪资的真实期望曲线",
+                "🔄 对比图：30万年薪的真实购买力分析"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_2",
+            "text": "年薪30万起啊。那我的起点可能需要换个起法。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "梗图/段子图",
+              "description": "用夸张的表情包或讽刺漫画呈现职场现实",
+              "construction": "上面是老板的要求(996)，下面是员工的反应(绝望脸)",
+              "why_effective": "幽默增加分享欲，梗图容易引发共鸣 (+62%转发)",
+              "examples": [
+                "😂 表情包：老板说996，员工内心OS",
+                "🎬 截图meme：知名人物的经典语录改编",
+                "📰 新闻标题变体：把996新闻改成搞笑版本"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_3",
+            "text": "冷静分析：996确实存在，但成功的前提条件往往被默认了。行业、时机、个人禀赋都是变量。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "信息图表",
+              "description": "清晰的逻辑链条或思维导图，展示问题的多维性",
+              "construction": "中心主题是996，周围是不同因素(行业、地域、个人)",
+              "why_effective": "理性风格配合结构化图表，显得专业权威 (+38%赞)",
+              "examples": [
+                "🧠 思维导图：996的成因分析",
+                "📋 流程图：职场晋升的真实路径",
+                "🏗️ 金字塔模型：成功的必要条件"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_4",
+            "text": "但真的每个人都能做到996吗？身体条件、家庭情况、个人意愿都不同，为什么要用一个标准衡量所有人？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "问卷/投票图",
+              "description": "用投票、问卷的形式展现多元观点",
+              "construction": "几个重点问题，配合真实比例的投票结果",
+              "why_effective": "引发用户参与欲望和讨论，评论区互动 (+71%评论数)",
+              "examples": [
+                "❓ 投票图：你能坚持996多久？",
+                "📊 问卷结果：年轻人对996的真实态度",
+                "🗳️ 多选题：你选择996的真实理由是？"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_5",
+            "text": "我也经历过这个阶段，看到别人月薪10万就焦虑。后来才明白，竞争焦虑本身就是被设计的。背后是消费主义。",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "深度分析漫画",
+              "description": "多格漫画展现焦虑的产生和本质",
+              "construction": "上排：社会现象，中排：心理反应，下排：问题本质",
+              "why_effective": "叙事性强，用视觉故事化增加代入感 (+55%保存)",
+              "examples": [
+                "💭 三格漫画：看到别人成功→自我怀疑→发现真相",
+                "🎭 4格漫画：焦虑的全过程反思",
+                "📖 漫画长条：消费主义如何制造焦虑"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_001_candidate_1",
+            "text": "这个观点的逻辑缺陷在于忽视了多方面因素。职场竞争本质上反映的是信息差和选择权的问题，而非单纯的个人努力。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "数据对比图",
+              "description": "柱状图对比不同职位的薪资、工作时间、压力指数",
+              "construction": "左侧显示996工作时间，右侧显示其他行业对比",
+              "why_effective": "用数据视觉化打破单一叙事，增加信服力 (+45%互动)",
+              "examples": [
+                "📊 表格：不同城市行业的996现象对比",
+                "📈 折线图：年龄vs薪资的真实期望曲线",
+                "🔄 对比图：30万年薪的真实购买力分析"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_2",
+            "text": "年薪30万起啊。那我的起点可能需要换个起法。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "梗图/段子图",
+              "description": "用夸张的表情包或讽刺漫画呈现职场现实",
+              "construction": "上面是老板的要求(996)，下面是员工的反应(绝望脸)",
+              "why_effective": "幽默增加分享欲，梗图容易引发共鸣 (+62%转发)",
+              "examples": [
+                "😂 表情包：老板说996，员工内心OS",
+                "🎬 截图meme：知名人物的经典语录改编",
+                "📰 新闻标题变体：把996新闻改成搞笑版本"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_3",
+            "text": "冷静分析：996确实存在，但成功的前提条件往往被默认了。行业、时机、个人禀赋都是变量。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "信息图表",
+              "description": "清晰的逻辑链条或思维导图，展示问题的多维性",
+              "construction": "中心主题是996，周围是不同因素(行业、地域、个人)",
+              "why_effective": "理性风格配合结构化图表，显得专业权威 (+38%赞)",
+              "examples": [
+                "🧠 思维导图：996的成因分析",
+                "📋 流程图：职场晋升的真实路径",
+                "🏗️ 金字塔模型：成功的必要条件"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_4",
+            "text": "但真的每个人都能做到996吗？身体条件、家庭情况、个人意愿都不同，为什么要用一个标准衡量所有人？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "问卷/投票图",
+              "description": "用投票、问卷的形式展现多元观点",
+              "construction": "几个重点问题，配合真实比例的投票结果",
+              "why_effective": "引发用户参与欲望和讨论，评论区互动 (+71%评论数)",
+              "examples": [
+                "❓ 投票图：你能坚持996多久？",
+                "📊 问卷结果：年轻人对996的真实态度",
+                "🗳️ 多选题：你选择996的真实理由是？"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_001_candidate_5",
+            "text": "我也经历过这个阶段，看到别人月薪10万就焦虑。后来才明白，竞争焦虑本身就是被设计的。背后是消费主义。",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "深度分析漫画",
+              "description": "多格漫画展现焦虑的产生和本质",
+              "construction": "上排：社会现象，中排：心理反应，下排：问题本质",
+              "why_effective": "叙事性强，用视觉故事化增加代入感 (+55%保存)",
+              "examples": [
+                "💭 三格漫画：看到别人成功→自我怀疑→发现真相",
+                "🎭 4格漫画：焦虑的全过程反思",
+                "📖 漫画长条：消费主义如何制造焦虑"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_002",
+      "status": "success",
+      "result": {
+        "post_id": "post_002",
+        "analysis": {
+          "post_id": "post_002",
+          "factual_fields": {
+            "id": "post_002",
+            "title": "我花5万装修的出租屋",
+            "content": "分享一下我如何在预算有限的情况下，把握出租屋变成温暖的家。以下是我的改造过程和成本分析。",
+            "platform": "小红书",
+            "images": [
+              "https://example.com/decoration_1.jpg",
+              "https://example.com/decoration_2.jpg",
+              "https://example.com/decoration_3.jpg"
+            ],
+            "url": "https://xiaohongshu.com/explore/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于lifestyle的讨论",
+            "hook_points": [
+              "我花5万装修的出租屋"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_002",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_002_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_002_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_002_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_002_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_002_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_002_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_003",
+      "status": "success",
+      "result": {
+        "post_id": "post_003",
+        "analysis": {
+          "post_id": "post_003",
+          "factual_fields": {
+            "id": "post_003",
+            "title": "",
+            "content": "淄博烧烤真的爆了",
+            "platform": "微博",
+            "images": [
+              "https://example.com/zibo_street.jpg"
+            ],
+            "url": "https://weibo.com/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "淄博旅游现象",
+            "hook_points": [
+              "小镇逆袭",
+              "火爆出圈",
+              "经济活力",
+              "视觉冲击"
+            ],
+            "sentiment": "observational_humor",
+            "risk_level": 2,
+            "recommended_styles": [
+              "witty",
+              "meta"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_003",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_003_candidate_1",
+            "text": "这个现象反映了新媒体时代的传播逻辑。淄博烧烤的爆红不是因为烧烤本身有多特殊，而是被恰好的时机和传播节点放大了。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "时间线图",
+              "description": "展示淄博烧烤如何从默默无闻到爆红",
+              "construction": "横轴时间，纵轴热度，标注关键传播节点",
+              "why_effective": "数据驱动的分析更有说服力 (+52%点赞)",
+              "examples": [
+                "📈 热度曲线",
+                "🗓️ 时间线标注"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_2",
+            "text": "淄博：我只是想卖个烧烤，为什么全国人民都要来？",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "对比梗图",
+              "description": "淄博本地人vs全国游客的反应对比",
+              "construction": "左侧是冷静吃烧烤的淄博人，右侧是兴奋朝圣的外地人",
+              "why_effective": "制造反差感的笑点，高度传播 (+78%转发)",
+              "examples": [
+                "😏 vs 🤩 对比表",
+                "🏘️ vs 🏞️ 场景对比"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_3",
+            "text": "从经济学角度看，这是典型的网络效应。一个城市的出圈成本在降低，关键是能否抓住流量转化的窗口。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "经济学分析图",
+              "description": "网络效应的经典案例展示",
+              "construction": "用S型曲线展现烧烤热度，标注临界点和饱和期",
+              "why_effective": "从经济学角度显得高级，吸引学术圈关注 (+43%)",
+              "examples": [
+                "📊 S型增长曲线",
+                "💰 经济效益分析"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_4",
+            "text": "真的是烧烤有吸引力，还是人们只是在追捧一个符号？当热点褪去，淄博的烧烤还会继续火吗？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "民调投票图",
+              "description": "真实的游客评价和问题反馈",
+              "construction": "好评vs差评的真实占比，突出可能的褪热风险",
+              "why_effective": "激发讨论，用户会自发留言 (+85%评论数)",
+              "examples": [
+                "🗳️ 游客评价汇总",
+                "⭐ 评分分布"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_5",
+            "text": "这就叫流量经济的真实写照。我们既是消费者，也是这个传播的共谋者。",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "社会现象漫画",
+              "description": "解构传播、消费、集体狂欢的心理",
+              "construction": "多层次展现流量经济如何运作",
+              "why_effective": "深度内容获得高价值转发和收藏 (+67%保存)",
+              "examples": [
+                "🎪 大众传播的狂欢图",
+                "💫 流量经济拆解漫画"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_003_candidate_1",
+            "text": "这个现象反映了新媒体时代的传播逻辑。淄博烧烤的爆红不是因为烧烤本身有多特殊，而是被恰好的时机和传播节点放大了。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "时间线图",
+              "description": "展示淄博烧烤如何从默默无闻到爆红",
+              "construction": "横轴时间，纵轴热度，标注关键传播节点",
+              "why_effective": "数据驱动的分析更有说服力 (+52%点赞)",
+              "examples": [
+                "📈 热度曲线",
+                "🗓️ 时间线标注"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_2",
+            "text": "淄博：我只是想卖个烧烤，为什么全国人民都要来？",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "对比梗图",
+              "description": "淄博本地人vs全国游客的反应对比",
+              "construction": "左侧是冷静吃烧烤的淄博人，右侧是兴奋朝圣的外地人",
+              "why_effective": "制造反差感的笑点，高度传播 (+78%转发)",
+              "examples": [
+                "😏 vs 🤩 对比表",
+                "🏘️ vs 🏞️ 场景对比"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_3",
+            "text": "从经济学角度看，这是典型的网络效应。一个城市的出圈成本在降低，关键是能否抓住流量转化的窗口。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "经济学分析图",
+              "description": "网络效应的经典案例展示",
+              "construction": "用S型曲线展现烧烤热度，标注临界点和饱和期",
+              "why_effective": "从经济学角度显得高级，吸引学术圈关注 (+43%)",
+              "examples": [
+                "📊 S型增长曲线",
+                "💰 经济效益分析"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_4",
+            "text": "真的是烧烤有吸引力，还是人们只是在追捧一个符号？当热点褪去，淄博的烧烤还会继续火吗？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "民调投票图",
+              "description": "真实的游客评价和问题反馈",
+              "construction": "好评vs差评的真实占比，突出可能的褪热风险",
+              "why_effective": "激发讨论，用户会自发留言 (+85%评论数)",
+              "examples": [
+                "🗳️ 游客评价汇总",
+                "⭐ 评分分布"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_003_candidate_5",
+            "text": "这就叫流量经济的真实写照。我们既是消费者，也是这个传播的共谋者。",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "社会现象漫画",
+              "description": "解构传播、消费、集体狂欢的心理",
+              "construction": "多层次展现流量经济如何运作",
+              "why_effective": "深度内容获得高价值转发和收藏 (+67%保存)",
+              "examples": [
+                "🎪 大众传播的狂欢图",
+                "💫 流量经济拆解漫画"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_004",
+      "status": "success",
+      "result": {
+        "post_id": "post_004",
+        "analysis": {
+          "post_id": "post_004",
+          "factual_fields": {
+            "id": "post_004",
+            "title": "Why are tech layoffs happening so frequently?",
+            "content": "In the past 6 months, we've seen massive layoffs from Meta, Twitter, Google, and Amazon. What's driving this trend? Is it over-hiring from the pandemic era, or something deeper about the economic cycle?",
+            "platform": "Reddit",
+            "images": [],
+            "url": "https://reddit.com/r/technology/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于tech的讨论",
+            "hook_points": [
+              "Why are tech layoffs"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_004",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_004_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_004_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_004_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_004_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_004_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_004_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_005",
+      "status": "success",
+      "result": {
+        "post_id": "post_005",
+        "analysis": {
+          "post_id": "post_005",
+          "factual_fields": {
+            "id": "post_005",
+            "title": "医生回应：如何科学补钙？",
+            "content": "很多人补钙方式都错了！正确的补钙应该这样做... (点击查看专业医学解读)",
+            "platform": "抖音",
+            "images": [
+              "https://example.com/health_tips_1.jpg",
+              "https://example.com/health_tips_2.jpg"
+            ],
+            "url": "https://douyin.com/video/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于health的讨论",
+            "hook_points": [
+              "医生回应：如何科学补钙？"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_005",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_005_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_005_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_005_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_005_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_005_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_005_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_006",
+      "status": "success",
+      "result": {
+        "post_id": "post_006",
+        "analysis": {
+          "post_id": "post_006",
+          "factual_fields": {
+            "id": "post_006",
+            "title": "",
+            "content": "Breaking: New AI model shows promising results in drug discovery research",
+            "platform": "推特",
+            "images": [
+              "https://example.com/research_chart.png"
+            ],
+            "url": "https://twitter.com/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于tech的讨论",
+            "hook_points": [
+              ""
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_006",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_006_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_006_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_006_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_006_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_006_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_006_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_007",
+      "status": "success",
+      "result": {
+        "post_id": "post_007",
+        "analysis": {
+          "post_id": "post_007",
+          "factual_fields": {
+            "id": "post_007",
+            "title": "北漂五年，从月薪2k到15k的经历分享",
+            "content": "很多人问我如何实现的，其实核心就三点：持续学习、正确的职业规划、敢于跳槽。我详细拆解一下每一步。第一阶段是打基础...",
+            "platform": "知乎",
+            "images": [],
+            "url": "https://zhihu.com/question/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于career的讨论",
+            "hook_points": [
+              "北漂五年，从月薪2k到15k的经历分享"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_007",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_007_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_007_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_007_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_007_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_007_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_007_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_008",
+      "status": "success",
+      "result": {
+        "post_id": "post_008",
+        "analysis": {
+          "post_id": "post_008",
+          "factual_fields": {
+            "id": "post_008",
+            "title": "素颜vs化妆，真的差这么多吗？",
+            "content": "我做了个自己的素颜到化妆的对比，用的都是平价产品。妆容重点放在修饰脸型和气质上。",
+            "platform": "小红书",
+            "images": [
+              "https://example.com/makeup_before.jpg",
+              "https://example.com/makeup_after.jpg",
+              "https://example.com/makeup_process.jpg",
+              "https://example.com/makeup_products.jpg"
+            ],
+            "url": "https://xiaohongshu.com/explore/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "美妆教程与气质提升",
+            "hook_points": [
+              "素颜vs化妆",
+              "平价产品",
+              "气质改变",
+              "视觉对比"
+            ],
+            "sentiment": "encouraging",
+            "risk_level": 3,
+            "recommended_styles": [
+              "witty",
+              "questioning"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_008",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_008_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_008_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_008_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_008_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_008_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_008_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_009",
+      "status": "success",
+      "result": {
+        "post_id": "post_009",
+        "analysis": {
+          "post_id": "post_009",
+          "factual_fields": {
+            "id": "post_009",
+            "title": "Show HN: I built a local LLM that runs on my laptop",
+            "content": "After 6 months of tinkering, I finally got a functional LLM running locally on a MacBook. It's not as good as GPT-4, but it's good enough for most tasks. Here's my architecture and the lessons learned.",
+            "platform": "HackerNews",
+            "images": [],
+            "url": "https://news.ycombinator.com/item?id=xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于tech的讨论",
+            "hook_points": [
+              "Show HN: I built a l"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_009",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_009_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_009_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_009_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_009_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_009_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_009_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_010",
+      "status": "success",
+      "result": {
+        "post_id": "post_010",
+        "analysis": {
+          "post_id": "post_010",
+          "factual_fields": {
+            "id": "post_010",
+            "title": "",
+            "content": "新疆棉花好评率98.7%！",
+            "platform": "微博",
+            "images": [
+              "https://example.com/cotton_quality.jpg"
+            ],
+            "url": "https://weibo.com/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于politics的讨论",
+            "hook_points": [
+              ""
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_010",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_010_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_010_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_010_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_010_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_010_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_010_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_011",
+      "status": "success",
+      "result": {
+        "post_id": "post_011",
+        "analysis": {
+          "post_id": "post_011",
+          "factual_fields": {
+            "id": "post_011",
+            "title": "为什么现在很多人不愿意生孩子？",
+            "content": "从经济压力、教育焦虑、女性地位等多个角度分析，为什么生育意愿在下降。这个问题涉及深层社会结构...",
+            "platform": "知乎",
+            "images": [],
+            "url": "https://zhihu.com/question/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于social的讨论",
+            "hook_points": [
+              "为什么现在很多人不愿意生孩子？"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_011",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_011_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_011_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_011_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_011_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_011_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_011_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_012",
+      "status": "success",
+      "result": {
+        "post_id": "post_012",
+        "analysis": {
+          "post_id": "post_012",
+          "factual_fields": {
+            "id": "post_012",
+            "title": "我用AI生成了100张头像，效果太逼真",
+            "content": "分享一个AI生成头像的工具和使用心得。质量已经能替代专业摄影了，成本还很低。",
+            "platform": "抖音",
+            "images": [
+              "https://example.com/ai_avatar_1.jpg",
+              "https://example.com/ai_avatar_2.jpg",
+              "https://example.com/ai_avatar_3.jpg",
+              "https://example.com/ai_avatar_4.jpg"
+            ],
+            "url": "https://douyin.com/video/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于tech的讨论",
+            "hook_points": [
+              "我用AI生成了100张头像，效果太逼真"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_012",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_012_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_012_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_012_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_012_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_012_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_012_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_013",
+      "status": "success",
+      "result": {
+        "post_id": "post_013",
+        "analysis": {
+          "post_id": "post_013",
+          "factual_fields": {
+            "id": "post_013",
+            "title": "The hidden costs of remote work nobody talks about",
+            "content": "After 3 years of remote work, I realize there are significant psychological and financial costs that aren't discussed. Here's my honest take on the downsides.",
+            "platform": "Reddit",
+            "images": [],
+            "url": "https://reddit.com/r/antiwork/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于career的讨论",
+            "hook_points": [
+              "The hidden costs of "
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_013",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_013_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_013_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_013_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_013_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_013_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_013_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_014",
+      "status": "success",
+      "result": {
+        "post_id": "post_014",
+        "analysis": {
+          "post_id": "post_014",
+          "factual_fields": {
+            "id": "post_014",
+            "title": "",
+            "content": "最新！2024年城市房价排行榜",
+            "platform": "微博",
+            "images": [
+              "https://example.com/housing_prices.png"
+            ],
+            "url": "https://weibo.com/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于politics的讨论",
+            "hook_points": [
+              ""
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_014",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_014_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_014_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_014_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_014_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_014_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_014_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_015",
+      "status": "success",
+      "result": {
+        "post_id": "post_015",
+        "analysis": {
+          "post_id": "post_015",
+          "factual_fields": {
+            "id": "post_015",
+            "title": "大学4年，我是如何学会主动学习的？",
+            "content": "分享我从被动学习到主动学习的转变过程。包括心态调整、学习方法、资源整合等实操内容。这个转变改变了我的人生轨迹。",
+            "platform": "小红书",
+            "images": [
+              "https://example.com/learning_journey_1.jpg",
+              "https://example.com/learning_journey_2.jpg"
+            ],
+            "url": "https://xiaohongshu.com/explore/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于lifestyle的讨论",
+            "hook_points": [
+              "大学4年，我是如何学会主动学习的？"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_015",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_015_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_015_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_015_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_015_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_015_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_015_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_016",
+      "status": "success",
+      "result": {
+        "post_id": "post_016",
+        "analysis": {
+          "post_id": "post_016",
+          "factual_fields": {
+            "id": "post_016",
+            "title": "",
+            "content": "ChatGPT's latest update: improved reasoning, faster responses, and better accuracy on coding tasks.",
+            "platform": "推特",
+            "images": [
+              "https://example.com/chatgpt_update.jpg"
+            ],
+            "url": "https://twitter.com/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于tech的讨论",
+            "hook_points": [
+              ""
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_016",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_016_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_016_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_016_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_016_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_016_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_016_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_017",
+      "status": "success",
+      "result": {
+        "post_id": "post_017",
+        "analysis": {
+          "post_id": "post_017",
+          "factual_fields": {
+            "id": "post_017",
+            "title": "互联网裁员潮后，技术人该何去何从？",
+            "content": "从2023年开始的大裁员到现在还在继续。很多优秀的工程师都找不到工作。这反映了什么问题？技术岗位的未来在哪里？",
+            "platform": "知乎",
+            "images": [],
+            "url": "https://zhihu.com/question/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于career的讨论",
+            "hook_points": [
+              "互联网裁员潮后，技术人该何去何从？"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_017",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_017_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_017_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_017_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_017_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_017_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_017_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_018",
+      "status": "success",
+      "result": {
+        "post_id": "post_018",
+        "analysis": {
+          "post_id": "post_018",
+          "factual_fields": {
+            "id": "post_018",
+            "title": "",
+            "content": "今天天气真好",
+            "platform": "微博",
+            "images": [
+              "https://example.com/sunset.jpg"
+            ],
+            "url": "https://weibo.com/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于lifestyle的讨论",
+            "hook_points": [
+              ""
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_018",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_018_candidate_1",
+            "text": "天气的美与否往往取决于观看者的心态。同样的天气，有人欣赏自然之美，有人只是打卡拍照。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "美学分析图",
+              "description": "展现不同天气的美学特征和心理学效应",
+              "construction": "分格展示晴天、雨天、夕阳等的特有美感",
+              "why_effective": "提升话题品味，吸引审美相近的用户 (+41%)",
+              "examples": [
+                "🌅 天气美学对比",
+                "🎨 色彩心理学"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_2",
+            "text": "确实天气真好。就是没人陪我去看。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "生活梗图",
+              "description": "孤独感、陪伴的温情段子图",
+              "construction": "美好天气+遗憾的表情组合",
+              "why_effective": "戳中共鸣的细微情感，高转发率 (+64%分享)",
+              "examples": [
+                "🌞 好天气梗图",
+                "😔 孤独的美学表达"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_3",
+            "text": "天气确实会影响心情和生活质量。这种简单的享受，往往是被快节奏生活所忽视的。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "科学图表",
+              "description": "天气对心情和生产力的科学影响",
+              "construction": "展现光照时间、温度等对人体的影响",
+              "why_effective": "用科学背书，显得理性和可信 (+39%赞)",
+              "examples": [
+                "☀️ 光线与心理健康",
+                "📊 季节性情绪变化"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_4",
+            "text": "有多久没有停下来好好看过天气了？我们常常被生活推着走，忘记了欣赏当下。",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "生活投票图",
+              "description": "最近多久没认真看过天气等生活小事",
+              "construction": "简洁的时间选项投票，激发自我反思",
+              "why_effective": "引发用户停顿和思考，留言分享 (+76%互动)",
+              "examples": [
+                "⏰ 最后一次看天气是何时",
+                "📱 vs 🌤️ 手机vs自然"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_5",
+            "text": "一条天气真好的分享，承载的是对生活节奏的渴望和对简单幸福的珍视。",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "哲思漫画",
+              "description": "现代生活中的小确幸和失落",
+              "construction": "从忙碌→停下→观察→感悟的心理过程",
+              "why_effective": "文艺圈容易传播，高收藏高分享 (+73%保存)",
+              "examples": [
+                "🎬 生活节奏漫画",
+                "💫 冥想式美学叙事"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_018_candidate_1",
+            "text": "天气的美与否往往取决于观看者的心态。同样的天气，有人欣赏自然之美，有人只是打卡拍照。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "美学分析图",
+              "description": "展现不同天气的美学特征和心理学效应",
+              "construction": "分格展示晴天、雨天、夕阳等的特有美感",
+              "why_effective": "提升话题品味，吸引审美相近的用户 (+41%)",
+              "examples": [
+                "🌅 天气美学对比",
+                "🎨 色彩心理学"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_3",
+            "text": "天气确实会影响心情和生活质量。这种简单的享受，往往是被快节奏生活所忽视的。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "科学图表",
+              "description": "天气对心情和生产力的科学影响",
+              "construction": "展现光照时间、温度等对人体的影响",
+              "why_effective": "用科学背书，显得理性和可信 (+39%赞)",
+              "examples": [
+                "☀️ 光线与心理健康",
+                "📊 季节性情绪变化"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_4",
+            "text": "有多久没有停下来好好看过天气了？我们常常被生活推着走，忘记了欣赏当下。",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "生活投票图",
+              "description": "最近多久没认真看过天气等生活小事",
+              "construction": "简洁的时间选项投票，激发自我反思",
+              "why_effective": "引发用户停顿和思考，留言分享 (+76%互动)",
+              "examples": [
+                "⏰ 最后一次看天气是何时",
+                "📱 vs 🌤️ 手机vs自然"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_018_candidate_5",
+            "text": "一条天气真好的分享，承载的是对生活节奏的渴望和对简单幸福的珍视。",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "哲思漫画",
+              "description": "现代生活中的小确幸和失落",
+              "construction": "从忙碌→停下→观察→感悟的心理过程",
+              "why_effective": "文艺圈容易传播，高收藏高分享 (+73%保存)",
+              "examples": [
+                "🎬 生活节奏漫画",
+                "💫 冥想式美学叙事"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_019",
+      "status": "success",
+      "result": {
+        "post_id": "post_019",
+        "analysis": {
+          "post_id": "post_019",
+          "factual_fields": {
+            "id": "post_019",
+            "title": "成为自由职业者3年的真实感受",
+            "content": "很多人问我为什么选择自由职业。坦白说，既有自由也有代价。我分享一下真实的收入、时间管理、心理建设方面的经历。",
+            "platform": "小红书",
+            "images": [
+              "https://example.com/freelance_workspace.jpg",
+              "https://example.com/freelance_income.jpg",
+              "https://example.com/freelance_lifestyle.jpg"
+            ],
+            "url": "https://xiaohongshu.com/explore/xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于career的讨论",
+            "hook_points": [
+              "成为自由职业者3年的真实感受"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_019",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_019_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_019_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_019_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_019_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_019_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_019_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    },
+    {
+      "post_id": "post_020",
+      "status": "success",
+      "result": {
+        "post_id": "post_020",
+        "analysis": {
+          "post_id": "post_020",
+          "factual_fields": {
+            "id": "post_020",
+            "title": "Rust beats C++ in system performance benchmarks",
+            "content": "A comprehensive benchmark study comparing Rust and C++ across 50 different system tasks shows Rust's performance is now on par or better than C++ in most scenarios. This is a game-changer for systems programming.",
+            "platform": "HackerNews",
+            "images": [
+              "https://example.com/benchmark_chart.png",
+              "https://example.com/performance_comparison.png"
+            ],
+            "url": "https://news.ycombinator.com/item?id=xxxxx"
+          },
+          "judgement_fields": {
+            "core_topic": "关于tech的讨论",
+            "hook_points": [
+              "Rust beats C++ in sy"
+            ],
+            "sentiment": "neutral",
+            "risk_level": 3,
+            "recommended_styles": [
+              "analytical"
+            ]
+          }
+        },
+        "patterns": {
+          "retrieval_query": "related to post_020",
+          "pattern_taxonomy": {
+            "expectation_vs_reality": "期望vs现实",
+            "dimensional_reduction": "降维打击",
+            "crowd_spokesperson": "代言群众",
+            "logic_reversal": "逻辑反转",
+            "question_driven": "提问引流",
+            "self_deconstruction": "自我解构",
+            "visual_reframing": "视觉重构"
+          },
+          "reference_comments": []
+        },
+        "candidates": [
+          {
+            "id": "post_020_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_020_candidate_2",
+            "text": "有意思的观点。就是感觉还差点什么。",
+            "style": "witty",
+            "pattern_used": "dimensional_reduction",
+            "why_effective": "通过witty风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_020_candidate_3",
+            "text": "理性来看，这个论点在特定条件下成立。",
+            "style": "rational",
+            "pattern_used": "crowd_spokesperson",
+            "why_effective": "通过rational风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_020_candidate_4",
+            "text": "但我想问的是，这背后的真实原因是什么？",
+            "style": "questioning",
+            "pattern_used": "question_driven",
+            "why_effective": "通过questioning风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          },
+          {
+            "id": "post_020_candidate_5",
+            "text": "仔细想想，我们在讨论的本质问题是什么？",
+            "style": "meta",
+            "pattern_used": "self_deconstruction",
+            "why_effective": "通过meta风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ],
+        "valid_candidates": [
+          {
+            "id": "post_020_candidate_1",
+            "text": "深度分析来看，这个话题涉及多个维度的考量。",
+            "style": "analytical",
+            "pattern_used": "expectation_vs_reality",
+            "why_effective": "通过analytical风格呈现，增强表达说服力",
+            "image_suggestion": {
+              "image_type": "通用梗图",
+              "description": "选择与评论风格相匹配的表情包或截图",
+              "construction": "确保图片与文字形成视觉和语义的呼应",
+              "why_effective": "增加内容丰富度，提高互动率",
+              "examples": [
+                "🎯 相关话题的经典梗图",
+                "📸 话题相关的高赞截图"
+              ]
+            },
+            "risk_assessment": {
+              "offense_level": 2,
+              "misinterpretation_risk": 1,
+              "backlash_risk": 3,
+              "final_risk_score": 2.1
+            },
+            "originality_score": 0.82
+          }
+        ]
+      }
+    }
+  ]
+}

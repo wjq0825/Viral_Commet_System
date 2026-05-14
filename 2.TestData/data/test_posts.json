@@ -1,0 +1,338 @@
+[
+  {
+    "id": "post_001",
+    "platform": "知乎",
+    "language": "zh",
+    "title": "为什么现在的年轻人都在卷？",
+    "content": "工作996，年薪30万起。还在抱怨的为什么不去试试？看到有人月薪10万，我就在想为什么自己不行。",
+    "images": [],
+    "url": "https://zhihu.com/question/xxxxx",
+    "form": "text_only",
+    "type": "career",
+    "likes": 3456,
+    "comments": 892,
+    "content_length": "long"
+  },
+  {
+    "id": "post_002",
+    "platform": "小红书",
+    "language": "zh",
+    "title": "我花5万装修的出租屋",
+    "content": "分享一下我如何在预算有限的情况下，把握出租屋变成温暖的家。以下是我的改造过程和成本分析。",
+    "images": [
+      "https://example.com/decoration_1.jpg",
+      "https://example.com/decoration_2.jpg",
+      "https://example.com/decoration_3.jpg"
+    ],
+    "url": "https://xiaohongshu.com/explore/xxxxx",
+    "form": "mixed",
+    "type": "lifestyle",
+    "likes": 12450,
+    "comments": 3210,
+    "content_length": "medium",
+    "image_text_synergy": "high"
+  },
+  {
+    "id": "post_003",
+    "platform": "微博",
+    "language": "zh",
+    "title": "",
+    "content": "淄博烧烤真的爆了",
+    "images": [
+      "https://example.com/zibo_street.jpg"
+    ],
+    "url": "https://weibo.com/xxxxx",
+    "form": "image_only",
+    "type": "lifestyle",
+    "likes": 45678,
+    "comments": 12340,
+    "content_length": "short",
+    "image_description": "淄博宽厚里美食街，人山人海，夜景灯火辉煌"
+  },
+  {
+    "id": "post_004",
+    "platform": "Reddit",
+    "language": "en",
+    "title": "Why are tech layoffs happening so frequently?",
+    "content": "In the past 6 months, we've seen massive layoffs from Meta, Twitter, Google, and Amazon. What's driving this trend? Is it over-hiring from the pandemic era, or something deeper about the economic cycle?",
+    "images": [],
+    "url": "https://reddit.com/r/technology/xxxxx",
+    "form": "text_only",
+    "type": "tech",
+    "likes": 5234,
+    "comments": 1890,
+    "content_length": "long"
+  },
+  {
+    "id": "post_005",
+    "platform": "抖音",
+    "language": "zh",
+    "title": "医生回应：如何科学补钙？",
+    "content": "很多人补钙方式都错了！正确的补钙应该这样做... (点击查看专业医学解读)",
+    "images": [
+      "https://example.com/health_tips_1.jpg",
+      "https://example.com/health_tips_2.jpg"
+    ],
+    "url": "https://douyin.com/video/xxxxx",
+    "form": "mixed",
+    "type": "health",
+    "likes": 234567,
+    "comments": 45678,
+    "content_length": "short",
+    "video_thumbnail": "https://example.com/thumbnail.jpg"
+  },
+  {
+    "id": "post_006",
+    "platform": "推特",
+    "language": "en",
+    "title": "",
+    "content": "Breaking: New AI model shows promising results in drug discovery research",
+    "images": [
+      "https://example.com/research_chart.png"
+    ],
+    "url": "https://twitter.com/xxxxx",
+    "form": "image_only",
+    "type": "tech",
+    "likes": 23456,
+    "comments": 4567,
+    "content_length": "short",
+    "image_description": "论文截图：新型AI在药物发现上的准确率对比图表"
+  },
+  {
+    "id": "post_007",
+    "platform": "知乎",
+    "language": "zh",
+    "title": "北漂五年，从月薪2k到15k的经历分享",
+    "content": "很多人问我如何实现的，其实核心就三点：持续学习、正确的职业规划、敢于跳槽。我详细拆解一下每一步。第一阶段是打基础...",
+    "images": [],
+    "url": "https://zhihu.com/question/xxxxx",
+    "form": "text_only",
+    "type": "career",
+    "likes": 8765,
+    "comments": 2341,
+    "content_length": "long"
+  },
+  {
+    "id": "post_008",
+    "platform": "小红书",
+    "language": "zh",
+    "title": "素颜vs化妆，真的差这么多吗？",
+    "content": "我做了个自己的素颜到化妆的对比，用的都是平价产品。妆容重点放在修饰脸型和气质上。",
+    "images": [
+      "https://example.com/makeup_before.jpg",
+      "https://example.com/makeup_after.jpg",
+      "https://example.com/makeup_process.jpg",
+      "https://example.com/makeup_products.jpg"
+    ],
+    "url": "https://xiaohongshu.com/explore/xxxxx",
+    "form": "mixed",
+    "type": "lifestyle",
+    "likes": 234567,
+    "comments": 45670,
+    "content_length": "short",
+    "image_text_synergy": "very_high"
+  },
+  {
+    "id": "post_009",
+    "platform": "HackerNews",
+    "language": "en",
+    "title": "Show HN: I built a local LLM that runs on my laptop",
+    "content": "After 6 months of tinkering, I finally got a functional LLM running locally on a MacBook. It's not as good as GPT-4, but it's good enough for most tasks. Here's my architecture and the lessons learned.",
+    "images": [],
+    "url": "https://news.ycombinator.com/item?id=xxxxx",
+    "form": "text_only",
+    "type": "tech",
+    "likes": 2341,
+    "comments": 567,
+    "content_length": "long"
+  },
+  {
+    "id": "post_010",
+    "platform": "微博",
+    "language": "zh",
+    "title": "",
+    "content": "新疆棉花好评率98.7%！",
+    "images": [
+      "https://example.com/cotton_quality.jpg"
+    ],
+    "url": "https://weibo.com/xxxxx",
+    "form": "image_only",
+    "type": "politics",
+    "likes": 567890,
+    "comments": 123456,
+    "content_length": "short",
+    "image_description": "产品质量认证证书和用户评价数据图表",
+    "sensitivity": "high"
+  },
+  {
+    "id": "post_011",
+    "platform": "知乎",
+    "language": "zh",
+    "title": "为什么现在很多人不愿意生孩子？",
+    "content": "从经济压力、教育焦虑、女性地位等多个角度分析，为什么生育意愿在下降。这个问题涉及深层社会结构...",
+    "images": [],
+    "url": "https://zhihu.com/question/xxxxx",
+    "form": "text_only",
+    "type": "social",
+    "likes": 12345,
+    "comments": 4567,
+    "content_length": "long",
+    "sensitivity": "medium"
+  },
+  {
+    "id": "post_012",
+    "platform": "抖音",
+    "language": "zh",
+    "title": "我用AI生成了100张头像，效果太逼真",
+    "content": "分享一个AI生成头像的工具和使用心得。质量已经能替代专业摄影了，成本还很低。",
+    "images": [
+      "https://example.com/ai_avatar_1.jpg",
+      "https://example.com/ai_avatar_2.jpg",
+      "https://example.com/ai_avatar_3.jpg",
+      "https://example.com/ai_avatar_4.jpg"
+    ],
+    "url": "https://douyin.com/video/xxxxx",
+    "form": "mixed",
+    "type": "tech",
+    "likes": 345678,
+    "comments": 67890,
+    "content_length": "short",
+    "image_text_synergy": "high"
+  },
+  {
+    "id": "post_013",
+    "platform": "Reddit",
+    "language": "en",
+    "title": "The hidden costs of remote work nobody talks about",
+    "content": "After 3 years of remote work, I realize there are significant psychological and financial costs that aren't discussed. Here's my honest take on the downsides.",
+    "images": [],
+    "url": "https://reddit.com/r/antiwork/xxxxx",
+    "form": "text_only",
+    "type": "career",
+    "likes": 8234,
+    "comments": 1567,
+    "content_length": "long"
+  },
+  {
+    "id": "post_014",
+    "platform": "微博",
+    "language": "zh",
+    "title": "",
+    "content": "最新！2024年城市房价排行榜",
+    "images": [
+      "https://example.com/housing_prices.png"
+    ],
+    "url": "https://weibo.com/xxxxx",
+    "form": "image_only",
+    "type": "politics",
+    "likes": 234567,
+    "comments": 56789,
+    "content_length": "short",
+    "image_description": "全国主要城市平均房价数据表",
+    "sensitivity": "high"
+  },
+  {
+    "id": "post_015",
+    "platform": "小红书",
+    "language": "zh",
+    "title": "大学4年，我是如何学会主动学习的？",
+    "content": "分享我从被动学习到主动学习的转变过程。包括心态调整、学习方法、资源整合等实操内容。这个转变改变了我的人生轨迹。",
+    "images": [
+      "https://example.com/learning_journey_1.jpg",
+      "https://example.com/learning_journey_2.jpg"
+    ],
+    "url": "https://xiaohongshu.com/explore/xxxxx",
+    "form": "mixed",
+    "type": "lifestyle",
+    "likes": 123456,
+    "comments": 34567,
+    "content_length": "medium",
+    "image_text_synergy": "high"
+  },
+  {
+    "id": "post_016",
+    "platform": "推特",
+    "language": "en",
+    "title": "",
+    "content": "ChatGPT's latest update: improved reasoning, faster responses, and better accuracy on coding tasks.",
+    "images": [
+      "https://example.com/chatgpt_update.jpg"
+    ],
+    "url": "https://twitter.com/xxxxx",
+    "form": "image_only",
+    "type": "tech",
+    "likes": 45678,
+    "comments": 12340,
+    "content_length": "short",
+    "image_description": "官方发布截图显示新功能特性对比"
+  },
+  {
+    "id": "post_017",
+    "platform": "知乎",
+    "language": "zh",
+    "title": "互联网裁员潮后，技术人该何去何从？",
+    "content": "从2023年开始的大裁员到现在还在继续。很多优秀的工程师都找不到工作。这反映了什么问题？技术岗位的未来在哪里？",
+    "images": [],
+    "url": "https://zhihu.com/question/xxxxx",
+    "form": "text_only",
+    "type": "career",
+    "likes": 9876,
+    "comments": 3456,
+    "content_length": "long",
+    "sensitivity": "medium"
+  },
+  {
+    "id": "post_018",
+    "platform": "微博",
+    "language": "zh",
+    "title": "",
+    "content": "今天天气真好",
+    "images": [
+      "https://example.com/sunset.jpg"
+    ],
+    "url": "https://weibo.com/xxxxx",
+    "form": "image_only",
+    "type": "lifestyle",
+    "likes": 2345,
+    "comments": 567,
+    "content_length": "very_short",
+    "image_description": "黄昏时分的城市天空，夕阳西下，景色优美"
+  },
+  {
+    "id": "post_019",
+    "platform": "小红书",
+    "language": "zh",
+    "title": "成为自由职业者3年的真实感受",
+    "content": "很多人问我为什么选择自由职业。坦白说，既有自由也有代价。我分享一下真实的收入、时间管理、心理建设方面的经历。",
+    "images": [
+      "https://example.com/freelance_workspace.jpg",
+      "https://example.com/freelance_income.jpg",
+      "https://example.com/freelance_lifestyle.jpg"
+    ],
+    "url": "https://xiaohongshu.com/explore/xxxxx",
+    "form": "mixed",
+    "type": "career",
+    "likes": 87654,
+    "comments": 21345,
+    "content_length": "medium",
+    "image_text_synergy": "high"
+  },
+  {
+    "id": "post_020",
+    "platform": "HackerNews",
+    "language": "en",
+    "title": "Rust beats C++ in system performance benchmarks",
+    "content": "A comprehensive benchmark study comparing Rust and C++ across 50 different system tasks shows Rust's performance is now on par or better than C++ in most scenarios. This is a game-changer for systems programming.",
+    "images": [
+      "https://example.com/benchmark_chart.png",
+      "https://example.com/performance_comparison.png"
+    ],
+    "url": "https://news.ycombinator.com/item?id=xxxxx",
+    "form": "mixed",
+    "type": "tech",
+    "likes": 12340,
+    "comments": 3456,
+    "content_length": "medium",
+    "image_text_synergy": "high"
+  }
+]
