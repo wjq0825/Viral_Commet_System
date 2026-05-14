@@ -98,6 +98,7 @@
 | 18 | `post_018` | 🟡 微博 | 🇨🇳 ZH | 🏠 日常生活 | 无标题<br>**今天天气真好** | 📸 图片 |
 | 19 | `post_019` | 🔴 小红书 | 🇨🇳 ZH | 💼 自由职业 | **成为自由职业者3年的真实感受**<br>很多人问我为什么选... | 🖼️ 图文 |
 | 20 | `post_020` | 👽 HackerNews | 🇺🇸 EN | 💻 极客技术 | **Rust beats C++ in system performance benchmarks**<br>A comprehensive... | 🖼️ 图文 |
+| 21 | `post_021` | 📰 媒体 | 🇺🇸 EN | 🏛️ 国际政治 | **Trump says Israel is a great ally**<br>Former President... *(考题指定样本)* | 📝 纯文本 |
 
 ---
 

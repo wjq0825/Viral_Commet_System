@@ -334,5 +334,20 @@
     "comments": 3456,
     "content_length": "medium",
     "image_text_synergy": "high"
+  },
+  {
+    "id": "post_021",
+    "platform": "News",
+    "language": "en",
+    "title": "Trump says Israel is a great ally",
+    "content": "Former President Donald Trump declared that Israel is a great ally of the United States. He emphasized the importance of maintaining strong relations...",
+    "images": [],
+    "url": "https://www.ainvest.com/news/trump-israel-great-ally-2604/",
+    "form": "text_only",
+    "type": "politics",
+    "likes": 8420,
+    "comments": 2341,
+    "content_length": "short",
+    "sensitivity": "high"
   }
 ]

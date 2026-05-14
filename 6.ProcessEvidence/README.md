@@ -401,37 +401,5 @@ python -m pytest tests/test_safety_checker.py
 2. 快速失败原则很有用（节约计算）
 3. 误报处理比漏检更容易
 
-## 下一步
-看Iteration 3 的质量优化
-```
-
----
-
-## 📊 推荐的过程证据记录内容
-
-### 最小记录（如果时间紧）
-```
-1. 用CLAUDE.md Section 10（Vision&Principles）记录初始思路
-2. 用comments_output.md的质量指标证明有效性
-3. 用adversarial_scenarios.md证明对抗防护能力
-```
-
-### 完整记录（如果时间充足）
-```
-1. Session Log × 5 (A1-A3 + Hook + Risk)
-   → 展示迭代思考过程
-
-2. Decision Record × 4 (Schema + Hook + Tools + Risk)
-   → 展示关键决策的依据
-
-3. Verification Result × 4 (Hook + Originality + Security + Quality)
-   → 展示系统的验证过程
-
-4. Iteration Note × 3 (Framework → Safety → Quality)
-   → 展示迭代优化过程
-```
-
----
-
 
 

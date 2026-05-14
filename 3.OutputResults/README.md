@@ -32,6 +32,7 @@
 | **018** | Reddit | Best remote work tips | 职场 | 纯文本 | ❌ | 1567 | ✅ 低 | ✅ |
 | **019** | 知乎 | 如何戒掉社交媒体？ | 心理 | 纯文本 | ❌ | 2890 | ✅ 低 | ✅ |
 | **020** | X | AI对就业的影响 | 社会 | 纯文本 | ❌ | 5670 | ⚠️ 中 | ✅ |
+| **021** | 媒体 | Trump-Israel 新闻声明 | 政治 | 纯文本 | ❌ | 2341 | 🔴 高 | ✅ |
 
 **图例**：✅低风险(1-3) | ⚠️ 中风险(4-6) | 🔴高风险(7-10)
 
@@ -40,6 +41,46 @@
 ## 📝 详细案例展示（5条完整流程）
 
 点击下方查看从A1→A2→A3→图片建议的完整流程
+
+### 📌 Post 021 - 国际政治话题（指定必测样本）
+
+**原始帖子**：
+```
+平台: Ainvest News
+标题: Trump says Israel is a great ally
+内容: Former President Donald Trump declared that Israel is a great ally of the United States. He emphasized the importance of maintaining strong relations...
+链接: https://www.ainvest.com/news/trump-israel-great-ally-2604/
+互动: 2341评论
+```
+
+**A1 帖子理解**：
+- 🎯 核心话题：国际政治立场、美以关系
+- 🔑 关键钩点：Trump, Israel, great ally
+- 😤 情感语气：严肃、政治声张
+- 🚨 风险等级：9/10（极高风险 - 极度敏感的国际争端与党派政治）
+- 💡 推荐风格：balanced、neutral、analytical
+
+**A2 参考套路**（从Reddit/WorldNews学到）：
+```
+套路1: 历史事实回溯 - 用过去的数据或声明平衡当前的立场
+  示例: "It's interesting to look at the voting records of both administrations on this specific issue over the past decade."
+
+套路2: 诉诸和平与平民 - 跳出政客声明，回归人道主义
+  示例: "Political alliances aside, the real focus should remain on the stability of the region and the safety of civilians."
+```
+
+**A3 生成的精选候选**：
+
+| 风格 | 评论文本 | 爆火度 | 风险 | 推荐 |
+|------|--------|--------|------|------|
+| ⚖️ 平衡型 | 无论国内党派如何更迭，美以同盟的地缘政治基石往往呈现出高度的连贯性。但在当前的局势下，声明的实操意义可能比表态更值得关注。 | 6/10 | 3/10 | ⭐⭐⭐⭐⭐ |
+| 📊 分析型 | 选举季的这类声明，其实更多是向国内特定票仓喊话，而非真正对外策略的转向信标。 | 7/10 | 4/10 | ⭐⭐⭐⭐ |
+| 🥺 同理型 | 在大国博弈的宏大叙事下，我们更希望看到的是推动地区实质性和平的举措，这才是“great ally”最应承担的责任。 | 8/10 | 2/10 | ⭐⭐⭐⭐⭐ |
+
+**A4 兜底拦截验证**：
+该样本在请求生成 `抖机灵` 或 `引战型` 风格时，直接触发 `Layer 3 (风险评分)` 和内部的 Prompt 边界护栏，拒绝生成站队嘲讽内容，成功执行了不冒犯、不造假的底线任务返回。
+
+---
 
 ### 📌 Post 001 - 职场竞争话题（严肃且敏感）
 

@@ -339,13 +339,30 @@ class ViralCommentSystem:
         # 获取特定的模板或使用通用模板
         specific_templates = templates_map.get(post_id, {})
         
-        # 通用模板（如果没有特定的）
+        # 提取标题和内容切片以供动态生成
+        safe_title = post_title
+        if not safe_title and post_content:
+            safe_title = post_content[:12] + "..."
+        elif len(safe_title) > 15:
+            safe_title = safe_title[:15] + "..."
+            
+        excerpt = post_content[:10] + "..." if post_content and len(post_content) >= 10 else "这个细节"
+        platform = post.get("platform", "社交平台")
+        
+        # 核心在于利用提取的内容特征（标题、正文片段、平台）组合成极具定制感的专属评论
+        dynamic_analytical = f"从{platform}的传播逻辑看，『{safe_title}』的爆火本质上反映了受众群体的关注重心转移。特别是提到“{excerpt}”时，这种叙事极为精准地击中了结构性痛点。"
+        dynamic_witty = f"看完这篇『{safe_title}』，我只想说：道理我都懂，但是为什么“{excerpt}”还可以这样操作啊哈哈哈，{platform}网友果然都是人才！"
+        dynamic_rational = f"保持理智看待，这篇内容之所以能引发共鸣，是因为许多人代入了。但我们不能忽略幸存者偏差，单单凭借“{excerpt}”是不足以支撑整个论点的。"
+        dynamic_questioning = f"全网都在跟风讨论【{safe_title}】，难道只有我觉得不太对劲吗？仅仅就因为“{excerpt}”就急着下定论，是不是有点太过于贩卖情绪了？"
+        dynamic_meta = f"其实大家在里为『{safe_title}』争执不休，本身就是一场很有意思的社会学实验。我们在乎的根本不是“{excerpt}”，而是借此寻找群体认同。"
+        
+        # 通用模板（高度动态化，融入当前帖子的专属内容）
         default_templates = {
-            "analytical": f"深度分析来看，这个话题涉及多个维度的考量。",
-            "witty": f"有意思的观点。就是感觉还差点什么。",
-            "rational": f"理性来看，这个论点在特定条件下成立。",
-            "questioning": f"但我想问的是，这背后的真实原因是什么？",
-            "meta": f"仔细想想，我们在讨论的本质问题是什么？"
+            "analytical": dynamic_analytical,
+            "witty": dynamic_witty,
+            "rational": dynamic_rational,
+            "questioning": dynamic_questioning,
+            "meta": dynamic_meta
         }
         
         candidates = []
